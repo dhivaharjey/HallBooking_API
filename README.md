@@ -60,3 +60,7 @@ Is this OK? (yes) yes
 - **GET**: Change the endpoint `/hallBooking_API/customer_booking_history/:customerName` to retrieve Booking history of customer.
 
 - Deployed in render .
+- API documentation created using **POSTMAN**.
+- Click here to see [API DOCUMENTATION LINK](https://documenter.getpostman.com/view/33076303/2sA35EY2gM)
+
+> Thanks for visiting...😊
