@@ -6,7 +6,7 @@ const app = Express();
 const PORT = 4000;
 app.use(cors());
 app.use(Express.json());
-app.get("/hallBooking_API", (req, res) => {
+app.get("/", (req, res) => {
   res.status(200).send(
     `<div>
 
